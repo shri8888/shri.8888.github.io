@@ -1,0 +1,40 @@
+FILE-HITS::'/home/webbifym/public_html/myshop/classes/QqUploadedFileForm.php'::2021-01-18 23:13:34::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/classes/QqUploadedFileForm.php'::2021-01-18 23:13:34::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myshop/classes/QqUploadedFileForm.php'::2021-01-18 23:13:34::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/classes/QqUploadedFileForm.php'::2021-01-18 23:13:34::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myhomeproducts/.idea/workspace.xml'::2021-01-18 23:13:50::Shell names::S::10
+FILE-RESULT::'/home/webbifym/public_html/myhomeproducts/.idea/workspace.xml'::2021-01-18 23:13:50::MALICIOUS_PROB_VERYHIGH_10
+FILE-HITS::'/home/webbifym/public_html/myhomeproducts/.idea/workspace.xml'::2021-01-18 23:13:50::Shell names::S::10
+FILE-RESULT::'/home/webbifym/public_html/myhomeproducts/.idea/workspace.xml'::2021-01-18 23:13:50::MALICIOUS_PROB_VERYHIGH_10
+FILE-HITS::'/home/webbifym/public_html/myshop/controllers/admin/AdminModulesController.php'::2021-01-18 23:13:21::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/controllers/admin/AdminModulesController.php'::2021-01-18 23:13:21::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myshop/controllers/admin/AdminModulesController.php'::2021-01-18 23:13:21::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/controllers/admin/AdminModulesController.php'::2021-01-18 23:13:21::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myshop/controllers/admin/AdminImportController.php'::2021-01-18 23:13:21::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/controllers/admin/AdminImportController.php'::2021-01-18 23:13:21::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myshop/controllers/admin/AdminImportController.php'::2021-01-18 23:13:21::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/controllers/admin/AdminImportController.php'::2021-01-18 23:13:21::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myshop/classes/webservice/WebserviceSpecificManagementImages.php'::2021-01-18 23:13:34::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/classes/webservice/WebserviceSpecificManagementImages.php'::2021-01-18 23:13:34::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/myshop/classes/webservice/WebserviceSpecificManagementImages.php'::2021-01-18 23:13:34::Uploader::S::7
+FILE-RESULT::'/home/webbifym/public_html/myshop/classes/webservice/WebserviceSpecificManagementImages.php'::2021-01-18 23:13:34::MALICIOUS_PROB_HIGH_7
+FILE-HITS::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/class-freemius.php'::2021-01-18 23:12:34::Encoded var=base64_decode::S::10::Obfuscated-Base64::S::10
+FILE-RESULT::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/class-freemius.php'::2021-01-18 23:12:34::MALICIOUS_PROB_VERYHIGH_20
+FILE-HITS::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/class-freemius.php'::2021-01-18 23:12:34::Encoded var=base64_decode::S::10::Obfuscated-Base64::S::10
+FILE-RESULT::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/class-freemius.php'::2021-01-18 23:12:34::MALICIOUS_PROB_VERYHIGH_20
+FILE-WHITELIST::/home/webbifym/public_html/tastyigniter/vendor/symfony/console/Resources/bin/hiddeninput.exe::SHA1::995eb0e883c7adebcfadd29100d810cb7f882bcd
+FILE-HITS::'/home/webbifym/public_html/myshop/modules/paypal/vendor/paypal/paypal-checkout-sdk/composer.phar'::2021-01-18 23:13:20::PE32.Generic::S::5
+FILE-RESULT::'/home/webbifym/public_html/myshop/modules/paypal/vendor/paypal/paypal-checkout-sdk/composer.phar'::2021-01-18 23:13:20::MALICIOUS_PROB_MEDIUM_5
+FILE-HITS::'/home/webbifym/public_html/myshop/modules/paypal/vendor/paypal/paypal-checkout-sdk/composer.phar'::2021-01-18 23:13:20::PE32.Generic::S::5
+FILE-RESULT::'/home/webbifym/public_html/myshop/modules/paypal/vendor/paypal/paypal-checkout-sdk/composer.phar'::2021-01-18 23:13:20::MALICIOUS_PROB_MEDIUM_5
+FILE-WHITELIST::/home/webbifym/public_html/mydesikitchen/vendor/symfony/console/Resources/bin/hiddeninput.exe::SHA1::995eb0e883c7adebcfadd29100d810cb7f882bcd
+FILE-HITS::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/sdk/FreemiusBase.php'::2021-01-18 23:12:34::Encoded var=base64_decode::S::10::Obfuscated-Base64::S::10
+FILE-RESULT::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/sdk/FreemiusBase.php'::2021-01-18 23:12:34::MALICIOUS_PROB_VERYHIGH_20
+FILE-HITS::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/sdk/FreemiusBase.php'::2021-01-18 23:12:34::Encoded var=base64_decode::S::10::Obfuscated-Base64::S::10
+FILE-RESULT::'/home/webbifym/public_html/aquaone/wp-content/plugins/salon-booking-system/freemius/includes/sdk/FreemiusBase.php'::2021-01-18 23:12:34::MALICIOUS_PROB_VERYHIGH_20
+FILE-HITS::'/home/webbifym/public_html/myshop/vendor/symfony/symfony/src/Symfony/Component/Cache/Traits/RedisTrait.php'::2021-01-18 23:13:24::Encoded Script::S::5
+FILE-RESULT::'/home/webbifym/public_html/myshop/vendor/symfony/symfony/src/Symfony/Component/Cache/Traits/RedisTrait.php'::2021-01-18 23:13:24::MALICIOUS_PROB_MEDIUM_5
+FILE-HITS::'/home/webbifym/public_html/myshop/vendor/symfony/symfony/src/Symfony/Component/Cache/Traits/RedisTrait.php'::2021-01-18 23:13:24::Encoded Script::S::5
+FILE-RESULT::'/home/webbifym/public_html/myshop/vendor/symfony/symfony/src/Symfony/Component/Cache/Traits/RedisTrait.php'::2021-01-18 23:13:24::MALICIOUS_PROB_MEDIUM_5
+FILE-WHITELIST::/home/webbifym/public_html/myshop/vendor/symfony/symfony/src/Symfony/Component/Console/Resources/bin/hiddeninput.exe::SHA1::995eb0e883c7adebcfadd29100d810cb7f882bcd
+

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>MyBiz-MyWeb | Contact Us</title>
+<meta name="keywords" content="graphite theme, free templates, website templates, CSS, HTML" />
+<meta name="description" content="Contact < MyBizMyWeb.com /> for rich website development and any kind of business software development or automation services." />
+<link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript" type="text/javascript">
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+
+<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
+
+<script type="text/javascript" src="https://mydesikhana.ca/assets/js/jquery-min.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js">
+
+</script>
+
+
+
+<!--////// CHOOSE ONE OF THE 3 PIROBOX STYLES  \\\\\\\-->
+<link href="css_pirobox/white/style.css" media="screen" title="shadow" rel="stylesheet" type="text/css" />
+<!--<link href="css_pirobox/white/style.css" media="screen" title="white" rel="stylesheet" type="text/css" />
+<link href="css_pirobox/black/style.css" media="screen" title="black" rel="stylesheet" type="text/css" />-->
+<!--////// END  \\\\\\\-->
+
+<!--////// INCLUDE THE JS AND PIROBOX OPTION IN YOUR HEADER  \\\\\\\-->
+<script type="text/javascript" src="js/piroBox.1_2.js"></script>
+
+<!--////// END  \\\\\\\-->
+  
+</head>
+<body id="sub_page">
+<div id="templatemo_wrapper">
+	<div id="templatemo_top">
+    	<div id="templatemo_login">
+          <!--  <form action="#" method="get">
+              <input type="text" value="username" name="q" size="10" id="username" title="username" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" />
+              <input type="password" value="password" name="q" size="10" id="password" title="password" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" />
+              <input type="submit" name="Search" value="" alt="Search" id="searchbutton" title="Search" class="sub_btn"  />
+            </form> -->
+		</div>
+    </div> <!-- end of top -->
+    
+  	<div id="templatemo_header">
+    	<div id="site_title"><h1><a href="#"><img src="images/logo.png"/></a></h1></div>
+        <div id="templatemo_menu" class="ddsmoothmenu">
+            <ul>
+              	<li><a href="index.html" >Home</a></li>
+         		<li><a href="about.html" >About Us</a>
+                   
+              	</li>
+          		<li><a href="services.html">Services offered</a></li>
+              	
+              	<li><a href="#" class="selected">Contact Us</a></li>
+				<li><a href="careers.html">Careers</a></li>
+            </ul>
+            <br style="clear: left" />
+        </div> <!-- end of templatemo_menu -->
+    </div> <!-- end of header -->
+    <div id="templatemo_main">
+    	<h2>Contact Us </h2>
+        <div class="col_w630 float_l">
+        	
+             <div id="contact_form">
+        
+                <h4>Send us a message...</h4>
+                
+                <form id="comment_form">
+					
+					<label for="author">Name:</label> <input type="text" id="name" name="name" class="required input_field" required />
+					<div class="cleaner h10"></div>
+																	
+					<label for="email">Email:</label> <input type="email" class="validate-email required input_field" name="email" id="email" required/>
+					<div class="cleaner h10"></div>
+					<label for="subject">Mobile:</label> <input type="tel" pattern="[0-9]{10,12}"  class="validate-subject required input_field" name="phone" id="phone" required/>				               
+					<div class="cleaner h10"></div>										
+					<label for="subject">Subject:</label> <input type="text" class="validate-subject required input_field" name="subject" id="subject" required/>				               
+					<div class="cleaner h10"></div>
+					
+											
+					<label for="text">Message:</label> <textarea id="msg" name="msg" rows="10" cols="0" maxlength="500"  class="required input_field" style="height:50px;" required></textarea>
+					<div class="cleaner h10"></div>				
+					<input type="hidden" value="secret" id="secret" name="secret"  />
+					<input type="hidden" value="source" id="source" name=""  />
+					<input type="submit" value="Send" id="submit" name="submit" class="submit_btn float_l" />
+
+										
+				</form>
+        
+            </div> 
+        </div>
+        
+        <div class="col_w300 float_r">
+		<h3>Latest Updates</h3>
+                <div class="news_box">
+                    <div align="justify"><a href="#">MyBizMyWeb's Latest Client's Website.</a>
+                    </div>
+                    <p align="justify">MyBiz-MyWeb Successfully designed and Developed the	 website <a href="http://www.newtechinstrumentsindia.com" target="_blank">www.newtechinstrumentsindia.com</a>
+					for its one of the prestigious clients Newtech Instruments India Pvt.Ltd, Hubli. </p>
+              </div>
+			  <div class="cleaner h30"></div>   
+                	<h3>Testimonial</h3>
+                    <blockquote>
+                    <p>&quot;MyBiz-MyWeb is the company I was looking for. They have developed a wonderful website for my firm and I have been getting a huge response and enquiries from customers across India&quot;</p>
+                    <cite><a href="#"> <strong>Mr. B S Parwatikar</strong> </a> - <span>MD, Newtech Instruments India</span></cite> Pvt. Ltd, Hubli.                 </blockquote>
+                    
+					
+					</div>
+                
+
+        <div class="cleaner"></div>
+    </div> <!-- end of main -->
+</div> <!-- end of wrapper -->
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        Copyright © 2012 <a href="#">MyBiz-MyWeb</a> | Design and Developed By : MyBizMyWeb
+       
+        <div class="cleaner"></div>
+    </div>
+</div> 
+</div> 
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$("form").submit(function(){
+	event.preventDefault();
+	document.getElementById("secret").value = "";
+	document.getElementById("source").value = window.location.href;
+	// alert(document.getElement    ById("source").value);
+	  var form_data = $("form").serialize();
+	//  alert(form_data)
+	 // alert(document.getElementById("name").value);
+	   $.ajax({
+	   
+		url:"https://webbifyme.com/contactus_send.php",
+		method:"POST",
+		data:form_data,
+		success:function(data)
+		{
+		 alert("Thank you. We have received your message and will be in touch with you shortly..");
+		 document.getElementById("comment_form").reset();
+		}
+		});
+});	
+
+});
+</script> 
+</body>
+</html>

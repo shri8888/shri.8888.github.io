@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>jQuery Mobile | 9Lessons</title>
+<link rel="stylesheet" href="jquery.mobile.structure-1.0.1.css" />
+
+<<link rel="stylesheet" href="jquery.mobile-1.0.1.css" />
+	<link rel="stylesheet" href="custom.css" />
+	<script src="jquery-1.7.1.min.js"></script>
+	<script src="jquery.mobile-1.0.1.min.js"></script>
+	
+	<script>
+	$(document).ready(function(){
+  $("button").click(function(){
+$.mobile.changePage( "#second", { transition: "slide"} );
+  
+  });
+   $("#button1").click(function(){
+$.mobile.changePage( "#first", { transition: "pop"} );
+  
+  });
+  
+});
+	</script>
+</head>
+
+<body>
+<div data-role="page" id="first">
+
+    <div data-role="header">
+        <h1>The title</h1>
+		  <a href=#>Copy</a>
+    <a href=#>Paste</a>
+    </div><!-- /header -->
+
+    <div data-role="content">
+        <p>The content fgfdhfgfgjfgjgk
+		jhkgighigi
+		hjkguikg</p>
+		<button><a href="#second">Fisrt Click</a></button>
+    </div><!-- /content -->
+	
+	<div data-role="footer">
+        <h4>The Footer</h4>
+    </div><!-- /header -->
+</div> <!-- end of first page-->
+
+<div data-role="page" id="second">
+        <div data-role="header">
+        <h1>Second Page</h1>
+    </div><!-- /header -->
+   <div data-role="content">
+        <p>The Second Page Content The content fgfdhfgfgjfgjgk
+		jhkgighigi
+		hjkguikgThe content fgfdhfgfgjfgjgk
+		jhkgighigi
+		hjkguikgThe content fgfdhfgfgjfgjgk
+		jhkgighigi
+		hjkguikgThe content fgfdhfgfgjfgjgk
+		jhkgighigi
+		hjkguikg</p>
+		<button id="button1"><a href="#first" >Second Click </a></button>
+    </div><!-- /content -->
+    <div data-role="footer">
+        <h4>The Footer</h4>
+    </div><!-- /header -->
+</div><!--End of second page -->
+</body>
+</html>
